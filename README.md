@@ -4,8 +4,6 @@
 
 EduTrack is a RESTful backend API built using **FastAPI**, **SQLite**, and **SQLAlchemy**. It enables users to enroll in courses, track lesson completion, unlock achievements automatically, and view learning analytics.
 
-This project was developed as a prototype for a micro-learning platform.
-
 ---
 
 ## Technologies Used
